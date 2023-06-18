@@ -1,4 +1,4 @@
-### Big O Notation
+# Big O Notation
 <div>
 1- Ignores constants
 <div>2- Certain terms "dominate" others : O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(2^n) < O(n!)

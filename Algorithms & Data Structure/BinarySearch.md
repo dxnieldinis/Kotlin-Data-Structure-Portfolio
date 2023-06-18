@@ -1,4 +1,4 @@
-### Binary Search
+# Binary Search
 Temos um array ordenado, e queremos encontrar um element dentro desse mesmo array, entao dividimos o problema ao meio e andamos para a esquerda ou para a direita a procura do elemento de forma mais eficiente 
 
 

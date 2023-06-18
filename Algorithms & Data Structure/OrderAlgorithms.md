@@ -1,4 +1,4 @@
-### MergeSort & QuickSort
+# MergeSort & QuickSort
 ### QuickSort 
 
 Selecionando qualquer elemento, o objetivo é selecionar um pivo e deixar apenas elementos maiores a direita e menores a esquerda,depois recursivamente selecionar outro pivo etc etc.<div>
