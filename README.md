@@ -8,5 +8,5 @@ Binary Search<div>
 Sliding Window<div>
 Order Algorithms<div>
 Priority Queue<div>
-Nodes<div>
+Linked Lists, Nodes<div>
 Complexity & Eficiency
